@@ -1,3 +1,3 @@
-# aoc2024
+# Advent of Code
+Started this as an exercise to get better at q/kdb+.
 
-As usual, attempting to get as far as I can with q/kdb+.
